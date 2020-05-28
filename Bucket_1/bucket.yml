@@ -1,6 +1,6 @@
 flows:
-  0296da19-fe69-4156-8523-8dae8102aae3: {ver: 1, file: Do_Re_Mi.snapshot, comments: Do
-      Re Mi, author: 'CN=sys_admin, OU=NIFI', created: 1590696078499, flowName: Do
-      Re Mi, flowDesc: Do Re Mi}
+  0296da19-fe69-4156-8523-8dae8102aae3: {ver: 2, file: Do_Re_Mi.snapshot, comments: '',
+    author: 'CN=sys_admin, OU=NIFI', created: 1590696863308, flowName: Do Re Mi, flowDesc: Do
+      Re Mi}
 layoutVer: 1
 bucketId: 292f9e34-def4-4111-a6f6-36d0527bba7d
