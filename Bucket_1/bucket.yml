@@ -2,5 +2,7 @@ flows:
   0296da19-fe69-4156-8523-8dae8102aae3: {ver: 2, file: Do_Re_Mi.snapshot, comments: '',
     author: 'CN=sys_admin, OU=NIFI', created: 1590696863308, flowName: Do Re Mi, flowDesc: Do
       Re Mi}
+  0bf1bd1b-1a53-4b1d-bb87-b7397ac94800: {ver: 1, file: Xyz.snapshot, comments: Xyz,
+    author: 'CN=sys_admin, OU=NIFI', created: 1590697097476, flowName: Xyz, flowDesc: Xyz}
 layoutVer: 1
 bucketId: 292f9e34-def4-4111-a6f6-36d0527bba7d
